@@ -9,6 +9,9 @@
 - 💬 Pregúntame sobre Laravel, APIs, bots o cómo integrar cualquier cosa con WhatsApp.
 - ⚡ Dato curioso: Me encanta optimizar todo lo que pueda ser automatizado.
 
+
+[![Mira mis videos en YouTube](https://img.shields.io/badge/Mira%20mis%20videos%20en-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+
 ---
 
 ### 🛠️ Tecnologías y herramientas
