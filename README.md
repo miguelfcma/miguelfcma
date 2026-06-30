@@ -26,9 +26,10 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfcma&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfcma&layout=compact&theme=radical)
+![Miguel's GitHub stats](https://github-stats-extended.vercel.app/api?username=miguelfcma&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=miguelfcma&layout=compact&theme=radical)
 
 ---
 
