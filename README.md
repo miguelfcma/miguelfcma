@@ -1,17 +1,6 @@
-# 👨‍💻 Miguel Ángel Flores Catalán
+# Miguel Ángel Flores Catalán
 
 ¡Hola! Soy Miguel Ángel, un desarrollador full stack apasionado por construir soluciones prácticas y eficientes. Me gusta experimentar con nuevas tecnologías, automatizar tareas y dar vida a ideas a través del código. Trabajo principalmente con **Laravel**, **JavaScript**, **Node.js**, **Python** y últimamente le estoy metiendo a **Flutter**.
-
-### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en bots para WhatsApp y automatizaciones con APIs.
-- 🌱 Aprendiendo cada día más sobre inteligencia artificial aplicada a chatbots.
-- 👯 Buscando colaborar en proyectos de automatización, apps móviles o herramientas útiles.
-- 💬 Pregúntame sobre Laravel, APIs, bots o cómo integrar cualquier cosa con WhatsApp.
-- ⚡ Dato curioso: Me encanta optimizar todo lo que pueda ser automatizado.
-
-
-[![Mira mis videos en YouTube](https://img.shields.io/badge/Mira%20mis%20videos%20en-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@miguelangelfc5142)
-
 ---
 
 ### 🛠️ Tecnologías y herramientas
@@ -24,7 +13,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 
 ![Miguel's GitHub stats](https://github-stats-extended.vercel.app/api?username=miguelfcma&show_icons=true&theme=radical&count_private=true)
@@ -33,7 +22,6 @@
 
 ---
 
-### 📫 Conéctate conmigo
 
 [![Conectemos en LinkedIn](https://img.shields.io/badge/Conectemos%20en-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-%C3%A1ngel-flores-catal%C3%A1n-261357217/)
 [![Envíame un WhatsApp](https://img.shields.io/badge/Envíame%20un-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5217353424868)
