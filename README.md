@@ -1,9 +1,9 @@
 # Miguel Ángel Flores Catalán
 
-¡Hola! Soy Miguel Ángel, un desarrollador full stack apasionado por construir soluciones prácticas y eficientes. Me gusta experimentar con nuevas tecnologías, automatizar tareas y dar vida a ideas a través del código. Trabajo principalmente con **Laravel**, **JavaScript**, **Node.js**, **Python** y últimamente le estoy metiendo a **Flutter**.
+¡Hola! Soy Miguel Ángel, un desarrollador full stack.
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️Tecnologías y herramientas
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
